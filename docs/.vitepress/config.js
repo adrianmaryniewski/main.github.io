@@ -1,5 +1,5 @@
 export default {
-    base: '/',
+    base: '/adrianmaryniewski.github.io/',
     title: 'VitePress',
     description: 'Just playing around.',
     themeConfig: {
